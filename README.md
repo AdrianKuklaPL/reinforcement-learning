@@ -1,7 +1,7 @@
 # Markov Decision Process (MDP) Analysis
 
 ## Objective
-This repository contains analyses of two Markov Decision Processes (MDPs): Blackjack and CartPole. The goal is to apply and examine key techniques such as Value Iteration, Policy Iteration, and Q-learning.
+This repository contains analyses of two Markov Decision Processes (MDPs): Blackjack and CartPole. The goal is to apply and examine key techniques such as Value Iteration, Policy Iteration, Q-learning and SARSA.
 
 ## Technologies Used
 - Python 3.11.9
